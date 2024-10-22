@@ -1,4 +1,4 @@
-                                                                                           # chocolate_house_l7
+# chocolate_house_l7
 
 This is a Simple Python Application for a fictional chocolate house that uses SQLite to manage,
 ● Seasonal flavor offerings
@@ -38,7 +38,7 @@ Database setup is completed.
 2)Start the main application using the command as:
   python main_app.py
   
-OUTPUT
+OUTPUT........
 Here I have run this code 2 times and entered the inputs 
 
 
