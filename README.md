@@ -1,5 +1,4 @@
 # chocolate_house_l7
-
 This is a Simple Python Application for a fictional chocolate house that uses SQLite to manage,
 ● Seasonal flavor offerings
 ● Ingredient inventory
