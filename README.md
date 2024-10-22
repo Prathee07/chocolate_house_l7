@@ -26,17 +26,20 @@ Create the files (database and the main application) by writing the code using V
 
 we can aslo run it in command prompt too by setting up a path to particlar folder in our computer such as 
 cd C:\Users\Pratheeksha\Desktop\chocolate_house_l7
+
+# For first file
 1) Run the database setup script in order to initialize the database using command:
    python database.py
 where we will get the ouput as
-# OUTPUT
+
 Database setup is completed.
 
+# For second file
 2)Start the main application using the command as:
   python main_app.py
   
-# OUTPUT
-# Here I have run this code 2 times and entered the inputs 
+OUTPUT
+Here I have run this code 2 times and entered the inputs 
 
 
 (venv) C:\Users\Pratheeksha\Desktop\chocolate_house_l7>python main_app.py
