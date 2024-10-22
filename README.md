@@ -6,8 +6,8 @@ This is a Simple Python Application for a fictional chocolate house that uses SQ
 ● Customer flavor suggestions and allergy concerns
 
 # Setup 
-Make sure that u have Python 3.6 or later and SQLlite will be installed along with it if we have python
-where , it can be verified using the command in command prompt as
+Make sure that u have Python 3.6 or later and SQLlite ,which will be installed along with it if we have python
+where it can be verified using the command in command prompt as
 
 python --version
 
@@ -18,17 +18,18 @@ mkdir chocolate_house_l7
 use that particular directory using the command,
 cd chocolate_house_l7
 
-Create a virtual Environment and activate it using commands
+Create a virtual Environment and activate it using commands:
 python -m venv venv
 venv\Scripts\activate
 
-Create the database and the main application by writing the code using VSCODE and run it .....! Thats it...........
+Create the files (database and the main application) by writing the code using VSCODE and run it .....! Thats it...........
 
-we can aslo run it in command prompt too by using the path to particlar folder in our computer such as 
-cd C:\Users\Pratheeksha\Desktop\chocolate_house_l7 ,
+we can aslo run it in command prompt too by setting up a path to particlar folder in our computer such as 
+cd C:\Users\Pratheeksha\Desktop\chocolate_house_l7
 1) Run the database setup script in order to initialize the database using command:
    python database.py
-where we will get the ouput as 
+where we will get the ouput as
+# OUTPUT
 Database setup is completed.
 
 2)Start the main application using the command as:
@@ -91,7 +92,7 @@ Customer Suggestions/Allergy Concerns:
 Enter your choice: 7
 Ohhh!!!Exiting the application.
 
-(venv) C:\Users\Pratheeksha\Desktop\chocolate_house_l7>
+
 
 
 
